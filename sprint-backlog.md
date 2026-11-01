@@ -1,4 +1,4 @@
-Sprint Backlog
+.Sprint Backlog
 ---
 
 [← Back to Overview](index.html) | [Next: Agile Logbook →](logbook.html)
