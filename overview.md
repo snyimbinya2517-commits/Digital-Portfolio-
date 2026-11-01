@@ -11,12 +11,12 @@
 ## Navigation & Quick Links
 
 - [Portfolio Overview](#agile_project_portfolio.md)
-- [1. Agile Team Charter](#1-charter.md)
-- [2. User Stories and Tasks](#2-stories.md)
-- [3. Product Backlog](#3-product-backlog.md)
-- [4. Sprint Backlog](#4-sprint-backlog.md)
-- [5. Agile Logbook](#5-agile-logbook.md)
-- [Reflection: Connecting It All Together](#reflection.md)
+- [1. Agile Team Charter](#charter.md)
+- [2. User Stories and Tasks](#stories.md)
+- [3. Product Backlog](#product-backlog.md)
+- [4. Sprint Backlog](#sprint-backlog.md)
+- [5. Agile Logbook](#logbook.md)
+- [Reflection: Connecting It All Together](#reflaction.md)
 
 ---
 
