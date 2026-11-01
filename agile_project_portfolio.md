@@ -1,5 +1,5 @@
 ---
-title: Agile Project Portfolio
+
 ---
 
 [Back to home](index.html)
