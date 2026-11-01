@@ -1,7 +1,7 @@
  User Stories & Tasks
 ---
 
-[← Back to Overview](index.html) | [Next: Product Backlog →](product-backlog.html)
+[← Back to Overview](overview.md) | [Next: Product Backlog →](product-backlog.md)
 
 # User Stories & Tasks
 
