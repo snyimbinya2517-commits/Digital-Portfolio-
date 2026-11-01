@@ -1,7 +1,7 @@
 .Sprint Backlog
 ---
 
-[← Back to Overview](index.html) | [Next: Agile Logbook →](logbook.html)
+[← Back to Overview](overview.md) | [Next: Agile Logbook →](logbook.md)
 
 # Sprint Backlog
 
@@ -14,4 +14,4 @@
 During this sprint, we realized we had over-committed by pulling in too many complex database integration stories alongside UI design tasks[cite: 3, 4]. We adjusted our focus during mid-sprint review, proving why velocity tracking prevents team burnout[cite: 4, 6].
 
 ---
-[← Back to Overview](index.html) | [Next: Agile Logbook →](logbook.html)
+[← Back to Overview](overview.md) | [Next: Agile Logbook →](logbook.md)
