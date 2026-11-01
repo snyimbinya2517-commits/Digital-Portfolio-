@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Agile Project Portfolio
 ---
 
@@ -12,7 +11,6 @@ title: Agile Project Portfolio
 **Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
 **Qualification:** Diploma in Information and Communication Technology  
 **Faculty:** Informatics and Design, Cape Peninsula University of Technology (CPUT)  
-**Examiner:** P. Inderlal | **Internal Moderator:** W. Hendricks | **External Moderator:** S. Thakur  
 
 ---
 
