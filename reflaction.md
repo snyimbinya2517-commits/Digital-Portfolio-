@@ -1,7 +1,7 @@
 Connecting It All Together
 ---
 
-[← Back to Overview](index.html)
+[← Back to Overview](overview.md)
 
 # Connecting It All Together
 
@@ -12,4 +12,4 @@ The Agile Team Charter established our behavioral baseline[cite: 5]. These norms
 Clean code and robust architecture are only half the battle; true engineering excellence requires disciplined project management and continuous team improvement[cite: 3, 5, 9].
 
 ---
-[← Back to Overview](index.html)
+[← Back to Overview](overview.md)
