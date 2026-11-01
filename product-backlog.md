@@ -6,19 +6,16 @@
 # Product Backlog
 
 ### Evidence
-My Trello Product Backlog list holds 73 cards with assigned members, labels, and due dates[cite: 3, 11].
+My Trello Product Backlog list holds 73 cards with assigned members, labels, and due dates.
 
-![Trello Product Backlog Board](assets/trello-board.jpg)[cite: 11]
-
-Key Cards Managed[cite: 11]:
-* Present final project results to class (Due Oct 24)[cite: 11]
-* Update pitch deck with real launch results (Due Oct 23)[cite: 11]
-* Create GitHub repository[cite: 3, 11]
-* User Report Submission Form[cite: 11]
-* GPS & Geolocation Tagging[cite: 3, 11]
+![Trello Product Backlog Board](backlog.jpg) 
+![Trello Product Backlog Board](backlog(2).jpg)
+![Trello Product Backlog Board](backlog3.jpg)
 
 ### Reflection
-Maintaining 73 active items taught me the critical importance of backlog grooming[cite: 3]. Pruning and re-prioritizing items dynamically as we gathered community survey feedback was one of the most valuable lessons in agile project hygiene[cite: 2, 3, 5].
+Managing a 73-item backlog taught me the critical importance of continuous backlog grooming using the MoSCoW framework (Must have, Should have, Could have, Won't have). Initially, our team experienced scope creep as we attempted to include extensive administrative and secondary platform features. By dynamically re-prioritizing cards based on community feedback from Khayelitsha residents, we successfully focused our engineering efforts on core reporting and emergency notification features.Breaking high-level objectives into granular, actionable tasks within Trello ensured that work items were never ambiguous. Assigning clear task owners (such as developer, writer/editor, or analyst roles) eliminated confusion and allowed us to track individual velocity and overall project progress transparently.As our project progressed from the initial Business Case stage in April to live prototype execution in October, the backlog served as a living document. It adapted to newly identified technical constraints, security rules, and user interface refinements, ensuring that our sprint planning was always grounded in realistic delivery goals.
+
+---
 
 ---
 [← Back to Overview](overview.md) | [Next: Sprint Backlog →](sprint-backlog.md)
