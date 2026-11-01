@@ -1,9 +1,8 @@
----
 # Agile Project Portfolio
 
 **Student Name:** Sinethemba Nyimbinya  
 **Student Number:** 220085870  
-**Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
+**Subject:** Project Presentation 3 
 **Qualification:** Diploma in Information and Communication Technology  
 **Faculty:** Informatics and Design, Cape Peninsula University of Technology (CPUT)  
 
@@ -11,13 +10,13 @@
 
 ## Navigation & Quick Links
 
-- [Portfolio Overview](#portfolio-overview)
-- [1. Agile Team Charter](#1-agile-team-charter)
-- [2. User Stories and Tasks](#2-user-stories-and-tasks)
+- [Portfolio Overview](#agile_project_portfolio)
+- [1. Agile Team Charter](#1-charter)
+- [2. User Stories and Tasks](#2-stories)
 - [3. Product Backlog](#3-product-backlog)
 - [4. Sprint Backlog](#4-sprint-backlog)
 - [5. Agile Logbook](#5-agile-logbook)
-- [Synthesis: Connecting It All Together](#synthesis-connecting-it-all-together)
+- [Reflection: Connecting It All Together](#reflection)
 
 ---
 
