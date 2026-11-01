@@ -1,7 +1,7 @@
  Product Backlog
 ---
 
-[← Back to Overview](index.html) | [Next: Sprint Backlog →](sprint-backlog.html)
+[← Back to Overview](overview.md) | [Next: Sprint Backlog →](sprint-backlog.md)
 
 # Product Backlog
 
@@ -21,4 +21,4 @@ Key Cards Managed[cite: 11]:
 Maintaining 73 active items taught me the critical importance of backlog grooming[cite: 3]. Pruning and re-prioritizing items dynamically as we gathered community survey feedback was one of the most valuable lessons in agile project hygiene[cite: 2, 3, 5].
 
 ---
-[← Back to Overview](index.html) | [Next: Sprint Backlog →](sprint-backlog.html)
+[← Back to Overview](overview.md) | [Next: Sprint Backlog →](sprint-backlog.md)
