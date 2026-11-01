@@ -1,7 +1,5 @@
 ---
 
----
-
 [Back to home](index.html)
 
 # Agile Project Portfolio
