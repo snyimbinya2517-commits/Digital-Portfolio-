@@ -1,7 +1,7 @@
  Agile Team Charter
 ---
 
-[← Back to Overview](index.html) | [Next: User Stories →](stories.html)
+[← Back to Overview](agile_project_portfolio.md) | [Next: User Stories →](stories.md)
 
 # Agile Team Charter
 
@@ -16,4 +16,3 @@
 Drafting and executing the charter taught me the vital difference between a theoretical contract and a living team agreement. As Writer and Editor, my role in the Definition of Done acted as both a safety net and a potential bottleneck; when team members submitted deliverables late, I had to balance quality control against tight submission deadlines[cite: 6, 8, 9].
 
 ---
-[← Back to Overview](index.html) | [Next: User Stories →](stories.html)
