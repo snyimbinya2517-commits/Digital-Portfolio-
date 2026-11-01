@@ -10,7 +10,7 @@
 
 ## Navigation & Quick Links
 
-- [Portfolio Overview](#agile_project_portfolio.md)
+- [Portfolio Overview](#overview.md)
 - [1. Agile Team Charter](#charter.md)
 - [2. User Stories and Tasks](#stories.md)
 - [3. Product Backlog](#product-backlog.md)
