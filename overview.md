@@ -17,6 +17,7 @@
 - [4. Sprint Backlog](sprint-backlog.md)
 - [5. Agile Logbook](logbook.md)
 - [Reflection: Connecting It All Together](reflaction.md)
+- [CV](README.md)
 
 ---
 
