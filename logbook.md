@@ -1,7 +1,7 @@
  Agile Logbook
 ---
 
-[← Back to Overview](index.html) | [Next: Synthesis →](synthesis.html)
+[← Back to Overview](overview.md) | [Next: Reflection →](reflection.md)
 
 # Agile Logbook (28–31 July 2026)
 
@@ -14,4 +14,4 @@
 The logbook revealed clear patterns in our team's productivity cycles[cite: 4, 6]. Implementing mandatory 10-minute morning stand-ups on WhatsApp drastically improved transparency, allowing us to catch technical blockers early[cite: 4, 6, 7].
 
 ---
-[← Back to Overview](index.html) | [Next: Synthesis →](synthesis.html)
+[← Back to Overview](overview.md) | [Next: Synthesis →](reflection.md)
