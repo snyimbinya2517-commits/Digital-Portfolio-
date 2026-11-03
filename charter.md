@@ -6,6 +6,7 @@
 # Agile Team Charter
 
 ### Evidence
+![Trello Product Backlog Board](charter.png)
 * **Submitted Date:** 4 May 2026[cite: 5]
 * **Shared Purpose:** Design and deliver a community-focused business solution for Khayelitsha sanitation failures[cite: 2, 5].
 * **Roles:** Liyema (Team Leader), Talent (Researcher/Agile Lead), Sinethemba (Writer/Editor), Muso (Presenter/Analyst), Libolwethu (Designer/Developer)[cite: 5, 6].
