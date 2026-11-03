@@ -1,6 +1,4 @@
 # Agile Project Portfolio
-# Website
-[Clickable Text](https://sewage-repair-services.vercel.app/)
 
 **Student Name:** Sinethemba Nyimbinya  
 **Student Number:** 220085870  
@@ -36,6 +34,7 @@ Following higher education e-portfolio frameworks, this collection is structured
 Our team set out to tackle the persistent public health and sanitation crisis in **Khayelitsha, Cape Town**. The area frequently experiences severe sewage pipe bursts and blocked infrastructure, leaving households, local schools, and small businesses without clean water or hygienic surroundings for days.
 
 To address this, our team conceptualized and engineered a **Sewage Repair & Monitoring Service** platform designed to streamline incident reporting using geotagging, improve response dispatching for municipal infrastructure, and track repair status in real time.
+# Website[click here](https://sewage-repair-services.vercel.app/)
 
 #### Solution Architecture & Tech Stack
 - **Frontend:** React Native (Expo), TypeScript, Tailwind CSS / NativeWind
@@ -51,5 +50,5 @@ To address this, our team conceptualized and engineered a **Sewage Repair & Moni
 - **Sinethemba Nyimbinya (220085870 - My Role):** Writer / Editor & Developer — Drafting and editing all content, frontend development, git workflow management.
 - **Muso Nkuntsu (231223722):** Presenter / Analyst — Preparing/delivering presentations, analyzing community survey data.
 - **Libolwethu Nokenke (222665963):** Designer / Developer — Visual design, slide/document layouts, UI prototyping.
-
+# Website[click here](https://sewage-repair-services.vercel.app/)
 ---
