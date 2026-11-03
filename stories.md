@@ -6,7 +6,7 @@
 # User Stories & Tasks
 
 ### Evidence
-![Trello Product Backlog Board](userstory.png)
+![Trello Product Backlog Board](User Story.png)
 * **User Story 1:** *As a Khayelitsha resident, I want to report a sewage overflow using my mobile phone with geotagging, so that municipal maintenance can locate the hazard quickly.*[cite: 2, 3, 11]
   * Task 1.1: Build React Native Expo intake form[cite: 3].
   * Task 1.2: Integrate Google Maps API & Expo Location[cite: 3].
