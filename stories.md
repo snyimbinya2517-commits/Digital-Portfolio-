@@ -10,7 +10,7 @@
 * **User Story 1:** *As a Khayelitsha resident, I want to report a sewage overflow using my mobile phone with geotagging, so that municipal maintenance can locate the hazard quickly.*
   * Task 1.1: Build React Native Expo intake form.
   * Task 1.2: Integrate Google Maps API & Expo Location.
-* **User Story 2:** *As a municipal admin, I want to view reported pipe bursts sorted by priority on a dashboard, so that field teams can be dispatched.*[cite: 2, 3, 11]
+* **User Story 2:** *As a municipal admin, I want to view reported pipe bursts sorted by priority on a dashboard, so that field teams can be dispatched.
   * Task 2.1: Design dashboard card layouts in Figma.
   * Task 2.2: Implement Supabase backend API queries.
 
