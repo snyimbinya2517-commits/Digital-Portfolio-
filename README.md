@@ -1,4 +1,4 @@
-# [Open portfolio ->](overview.md)
+# [Open portfolio here](overview.md)
 # Sinethemba Nyimbinya
 
 Philippi, Cape Town, South Africa  
